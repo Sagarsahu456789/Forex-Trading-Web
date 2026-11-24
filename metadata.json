@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia FX Academy",
+  "description": "Full-stack Forex Trading Academy Management System with public portal, role-based Admin, Mentor, and Student dashboards, admissions, verified payments, live classes, online exams, attendance, referrals, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
